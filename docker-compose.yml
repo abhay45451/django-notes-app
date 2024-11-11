@@ -1,6 +1,6 @@
-version : "3.3"
-services :
-  web :
+version: "3.3"
+services:
+  web:
     image: abhay45/notesapp:latest
-    ports :
+    ports:
       - "8000:8000"
